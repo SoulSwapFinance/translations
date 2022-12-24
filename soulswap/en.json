@@ -292,6 +292,7 @@
   "Error while trying to connect": "Error while trying to connect",
   "Estimated network Fee": "Estimated network Fee",
   "Example Card": "Example Card",
+  "Exchange": "Exchange",
   "Expanded results from inactive token lists": "Expanded results from inactive token lists",
   "Expected Output": "Expected Output",
   "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.": "Expert mode turns off the confirm transaction prompt and allows high slippage trades\nthat often result in bad rates and lost funds.",
